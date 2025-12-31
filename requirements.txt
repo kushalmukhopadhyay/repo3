@@ -5,3 +5,5 @@ scikit-learn
 scipy
 ydata-profiling
 streamlit-pandas-profiling
+setuptools
+
